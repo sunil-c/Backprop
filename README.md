@@ -1,6 +1,6 @@
 # Backpropagation Neural Network
 
-##Overview
+## Overview
 This is a javascript implementation of a backpropogation neural network which uses a binary sigmoid (range 0,1) as the squash function.  The data used to test the system is the well-known Iris data set. 
 ### Dev environment
 Development environment included Visual Studio Code, Google Web Server for Chrome, and Chrome web browser. Not necessary for running the 
